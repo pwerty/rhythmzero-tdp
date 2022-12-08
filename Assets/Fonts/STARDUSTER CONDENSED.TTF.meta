@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d50af516eca125f46a7de9efa09374bc
+timeCreated: 1512972423
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Starduster Condensed
+  fontNames:
+  - Starduster Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

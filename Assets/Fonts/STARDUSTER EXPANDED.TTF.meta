@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dd1e9bd6decc35b4a8c2577be2d29422
+timeCreated: 1512972423
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Starduster Expanded
+  fontNames:
+  - Starduster Expanded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

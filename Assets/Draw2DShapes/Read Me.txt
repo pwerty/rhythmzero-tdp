@@ -1,0 +1,6 @@
+To Draw 2D Shapes:
+Set the Scene View to 2D mode.
+Create a new Game Object.
+Add the script Draw2D to the GameObject.
+Holding Shift you can create points for the shape by clicking on the Scene Window.
+To delete a point you can select a point in the scene view and press delete on the keyboard.

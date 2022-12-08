@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm_0.Plugins", "Rhythm_0.Plugins.csproj", "{CF5EC35D-3C3C-0E4E-2269-64CFDD4C9E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm_0", "Rhythm_0.csproj", "{4AE2114F-78FE-A2E0-E11E-128CF1C9A305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhythm_0.Editor", "Rhythm_0.Editor.csproj", "{BB0085F7-8EE8-AD4D-91DB-6E8BC9BB1C3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5EC35D-3C3C-0E4E-2269-64CFDD4C9E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5EC35D-3C3C-0E4E-2269-64CFDD4C9E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5EC35D-3C3C-0E4E-2269-64CFDD4C9E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5EC35D-3C3C-0E4E-2269-64CFDD4C9E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE2114F-78FE-A2E0-E11E-128CF1C9A305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE2114F-78FE-A2E0-E11E-128CF1C9A305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE2114F-78FE-A2E0-E11E-128CF1C9A305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE2114F-78FE-A2E0-E11E-128CF1C9A305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0085F7-8EE8-AD4D-91DB-6E8BC9BB1C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0085F7-8EE8-AD4D-91DB-6E8BC9BB1C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0085F7-8EE8-AD4D-91DB-6E8BC9BB1C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0085F7-8EE8-AD4D-91DB-6E8BC9BB1C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

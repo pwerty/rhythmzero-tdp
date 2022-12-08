@@ -1,4 +1,6 @@
 # Rhythm-Zero : Traveling Dreamlike Place
+### Available only Unity 5.6.4, will update soon!
+
 
 2017년 9월 ~ 2017년 12월 작업물
 
@@ -16,11 +18,6 @@ Rhythm-Zero is a rhythm action game based on released game like DJMAX, Ez2 Serie
 
 Game ambient motivated from Ez2AC : Night Traveler.
 <br/><br/><br/><br/>
-
-
-**소스코드의 경우, 용량이 지나치게 많은 리소스 파일을 분리 후 업로드 예정**
-
-**Source Codes will be updated Later**
 
 ### 게임 플레이 영상
 ### Play Video

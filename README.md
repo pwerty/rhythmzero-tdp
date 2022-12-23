@@ -2,6 +2,12 @@
 ### Available only Unity 5.6.4, will update soon!
 
 
+C#과 Unity를 배우기 시작하며 동시에 개발한 포트폴리오입니다.
+
+동시에 기획서를 작성하는 법을 숙지하기 위해 기획서도 동시에 준비한 게임이기도 합니다. 아래 문서에서 확인해보세요.
+https://drive.google.com/file/d/1oDBOdtxajFqi2lCD-r9saPBtXX4DAAIN/view?usp=sharing
+<br/>
+<br/>
 2017년 9월 ~ 2017년 12월 작업물
 
 Worked Sep 2017 ~ Dec 2017

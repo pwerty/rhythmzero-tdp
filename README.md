@@ -2,15 +2,14 @@
 ### Available only Unity 5.6.4, will update soon!
 
 
-C#과 Unity를 배우기 시작하며 동시에 개발한 포트폴리오입니다.
 
-동시에 기획서를 작성하는 법을 숙지하기 위해 기획서도 동시에 준비한 게임이기도 합니다. 아래 문서에서 확인해보세요.
+C#과 Unity를 입문 과정 중 동시에 개발한 포트폴리오입니다. 
+
+또, 기획서를 작성하는 법을 숙지하기 위해 기획서도 준비한 게임이기도 합니다. 아래 문서에서 확인해보세요.
 https://drive.google.com/file/d/1oDBOdtxajFqi2lCD-r9saPBtXX4DAAIN/view?usp=sharing
 <br/>
 <br/>
-2017년 9월 ~ 2017년 12월 작업물
-
-Worked Sep 2017 ~ Dec 2017
+2017년 9월 ~ 2017년 12월 작업물 (4개월)
 <br/>
 <br/>
 <br/>
@@ -19,11 +18,6 @@ Worked Sep 2017 ~ Dec 2017
 Ez2AC : Night Traveler 에서 영감을 얻어 유사한 분위기가 연출 될 수 있도록 했습니다.
 
 본 프로젝트를 통해 C#에 관한 이해를 큰 폭으로 늘릴 수 있었으며 Unity 게임 엔진에 대한 숙련도를 높였습니다.
-<br/><br/><br/>
-Rhythm-Zero is a rhythm action game based on released game like DJMAX, Ez2 Series.
-
-Game ambient motivated from Ez2AC : Night Traveler.
-<br/><br/><br/><br/>
 
 ### 게임 플레이 영상
 ### Play Video
